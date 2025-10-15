@@ -1,4 +1,5 @@
-### Music Player Application
+### SONARE
+
 It is a small music player web app using the MERN stack (MongoDB, Express, React, Node.js). The app should allow users to sign up, sign in, select songs from a library, create playlists, play songs, and resume songs from where they left off.
 
 **Here's a breakdown of the technologies used, functionality, and how to set it up locally:**
